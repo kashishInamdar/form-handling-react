@@ -1,0 +1,23 @@
+.form{
+    border: 2px solid black;
+    width: 500px;
+    display: block;
+    margin: 10px auto;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.text-center{
+    text-align: center;
+    margin: 5px;
+    margin-bottom: 20px;
+}
+select option {
+    padding: 20px;
+    height: 50px;
+}
+.heading{
+    font-size: 23px;
+    font-weight: bolder;
+}
+
